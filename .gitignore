@@ -1,0 +1,10 @@
+# APK artifacts used for protocol reverse-engineering (not part of the project)
+apk/
+apk-arm64/
+extracted/
+*.xapk
+
+# .NET
+bin/
+obj/
+*.user
